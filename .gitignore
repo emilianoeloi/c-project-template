@@ -42,3 +42,10 @@
 # Project logs files
 /log/*
 !/log/.gitkeep
+
+# CMake
+CMakeFiles
+*.vcxproj*
+*.sln
+cmake_install*
+CMakeCache.txt
